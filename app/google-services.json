@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "563368979192",
+    "firebase_url": "https://cybercomplaint-76b9b.firebaseio.com",
+    "project_id": "cybercomplaint-76b9b",
+    "storage_bucket": "cybercomplaint-76b9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563368979192:android:64b937114498c4a28e690d",
+        "android_client_info": {
+          "package_name": "in.cybercomplaint.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563368979192-6bgpljclbl6uagj9o605o4jib9ir6l4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-v87FE-NKzzYOLvMGjnk6IVTsSCK4S-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563368979192-6bgpljclbl6uagj9o605o4jib9ir6l4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
